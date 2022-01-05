@@ -1,4 +1,0 @@
-ON,Ontario,6.25
-AB,Alberta,6.75
-MB,Manitoba,5.75
-QC,Quebec,6.00
